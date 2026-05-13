@@ -1,10 +1,9 @@
-# Conditions d'utilisation — Bivouac Studio
-
+# Conditions d'utilisation — Timelendr
 *Dernière mise à jour : 2025*
 
 ## 1. Acceptation
 
-En utilisant l'application Bivouac Studio (« l'Application »), vous acceptez les présentes conditions d'utilisation. Si vous n'acceptez pas ces conditions, n'utilisez pas l'Application.
+En utilisant l'application Timelendr (« l'Application »), vous acceptez les présentes conditions d'utilisation. Si vous n'acceptez pas ces conditions, n'utilisez pas l'Application.
 
 ## 2. Éditeur
 
