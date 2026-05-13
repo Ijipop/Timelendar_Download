@@ -1,10 +1,10 @@
-# Politique de confidentialité — Bivouac Studio
+# Politique de confidentialité — Timelendr
 
 *Dernière mise à jour : 2025*
 
 ## 1. Responsable
 
-**Jean-François Lefebvre** (Canada) est responsable du traitement des données relatives à l'application Bivouac Studio (« l'Application »).  
+**Jean-François Lefebvre** (Canada) est responsable du traitement des données relatives à l'application Timelendr (« l'Application »).  
 Contact : [ijipop82@gmail.com](mailto:ijipop82@gmail.com).
 
 ## 2. Données collectées
